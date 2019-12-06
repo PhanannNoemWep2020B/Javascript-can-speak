@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+#result{
+    height: 300px;
+    border: 1px solid;
+    font-size: 20px;
+    line-height: 25px;
+}
+button{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    outline: none;
+    border: none;
+    cursor: pointer; 
+    color: teal;
+    position: absolute;
+    left: 45%;
+    top: 245px;
+}
